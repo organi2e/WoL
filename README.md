@@ -1,6 +1,6 @@
 # WoL
 
-An implementation to send magick packet for Wake-On-Lan
+An implementation to send magic packet for Wake-On-Lan
 
 ## Usage
 
